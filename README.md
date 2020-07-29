@@ -72,3 +72,5 @@ Tested on Python 3.5
     
 2. The Faster RCNN model is able to **achieve accuracy of more than 90% for detecting a card in the image.**
 3. When the image quality is _low_ or image is _blurry or tilted_, then the pytesseract model give _some incorrect output_ like _confusing '0' with 'O' or 'D' and 'i' with 'l' or '1'_, but with a descent quality image it gives better results. 
+
+** Create an empty 'result' directory inside the project before running main.py **
